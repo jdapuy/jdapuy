@@ -33,6 +33,3 @@ Hi! My name is Juan Diego Apuy Villalobos. Thank You for taking the time to view
 <a href = 'https://www.instagram.com/diego.apuy/'> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 <a href = 'mailto:jdapuy@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
-## My GitHub Stats 
-
-![Metrics](https://metrics.lecoq.io/Nahuel1440?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
