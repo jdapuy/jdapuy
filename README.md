@@ -10,7 +10,7 @@ Hi! My name is Juan Diego Apuy Villalobos. Thank You for taking the time to view
 
 - 🌱 I’m currently finishing bachelor as System Engineer.
 
-- 👯 I’m looking to collaborate on Projects.
+- 🕵🏻‍♂️ I’m looking to collaborate on Projects.
 
 - 💬 Ask me about web programming.
 
