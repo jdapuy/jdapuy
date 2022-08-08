@@ -6,9 +6,9 @@ Hi! My name is Juan Diego Apuy Villalobos. Thank You for taking the time to view
 
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/32533395/182201518-4f73dac0-2857-48e1-80ba-6a19b067b335.png" />
 
-- 🔭 I’m currently working on my tennis app project and in others.
+- 🔭 I’m currently studying react native and typescript.
 
-- 🌱 I’m currently finishing bachelor as a System Engineer.
+- 🌱 I’m currently finishing bachelor as System Engineer.
 
 - 👯 I’m looking to collaborate on Projects.
 
