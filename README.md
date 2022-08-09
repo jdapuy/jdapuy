@@ -28,8 +28,9 @@ Hi! My name is Juan Diego Apuy Villalobos. Thank You for taking the time to view
 <img src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
 <img src ='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
 
-## Connect with me 🤝 
+## Connect with me 🤝 https:
 <a href = 'https://www.linkedin.com/in/diego-apuy/'> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href = 'https://www.instagram.com/diego.apuy/'> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 <a href = 'mailto:jdapuy@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href = 'https://portfolio-indol-one-34.vercel.app/'> <img src="https://img.shields.io/badge/Portfolio-c4ddff?style=for-the-badge&logo=P=white"/></a>
 
